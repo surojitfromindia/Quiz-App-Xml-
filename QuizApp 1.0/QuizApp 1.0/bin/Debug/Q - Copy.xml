@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Quiz>
+  <Question ID="1">
+    <Qs>Question paper 1</Qs>
+    <Op1>Op1</Op1>
+    <Op2>Op2</Op2>
+    <Op3>Op3</Op3>
+    <Op4>Op4</Op4>
+  </Question>
+  <Question ID="2">
+    <Qs>Question paper 2</Qs>
+    <Op1>Op1</Op1>
+    <Op2>Op2</Op2>
+    <Op3>Op3</Op3>
+    <Op4>Op4</Op4>
+  </Question>
+  <Question ID="3">
+    <Qs>Question paper 3</Qs>
+    <Op1>Op1</Op1>
+    <Op2>Op2</Op2>
+    <Op3>Op3</Op3>
+    <Op4>Op4</Op4>
+  </Question>
+  <Question ID="4">
+    <Qs>Question paper 4</Qs>
+    <Op1>Op1</Op1>
+    <Op2>Op2</Op2>
+    <Op3>Op3</Op3>
+    <Op4>Op4</Op4>
+  </Question>
+</Quiz>

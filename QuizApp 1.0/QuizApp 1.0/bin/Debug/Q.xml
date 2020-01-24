@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Quiz>
+  <Question ID="1">
+    <Qs>Law of Gravity was invented by who ?</Qs>
+    <Op1>Issac Newton</Op1>
+    <Op2>Stephen Hawking</Op2>
+    <Op3>Albert Einstien</Op3>
+    <Op4>None of them</Op4>
+    <Ans>Isac Newton</Ans>
+    <Des></Des>
+  </Question>
+  <Question ID="2">
+    <Qs>Which of the following planet takes less time than earth to revolves the Sun ?</Qs>
+    <Op1>Venus</Op1>
+    <Op2>Jupiter</Op2>
+    <Op3>Mercury</Op3>
+    <Op4>Pluto</Op4>
+    <Ans>Venus</Ans>
+    <Des>Venus has a lower orbit than earth, so it need less time to revolve the Sun</Des>
+  </Question>
+  <Question ID="3">
+    <Qs>India launches it's latest moon mission Chandrayjan-2, how many payload it is carrying ?</Qs>
+    <Op1>2</Op1>
+    <Op2>3</Op2>
+    <Op3>1</Op3>
+    <Op4>5</Op4>
+    <Ans>2</Ans>
+    <Des>Payload means satelites and other instrument for observation. </Des>
+  </Question>
+  <Question ID="4">
+    <Qs>The First Chandrayan-1 was launched in the year____.</Qs>
+    <Op1>1999</Op1>
+    <Op2>2003</Op2>
+    <Op3>2001</Op3>
+    <Op4>2006</Op4>
+    <Ans>2001</Ans>
+    <Des></Des>
+  </Question>
+  <Question ID="5">
+    <Qs>Which planet has the Highest number of Moons?</Qs>
+    <Op1>Earth</Op1>
+    <Op2>Jupiter</Op2>
+    <Op3>Saturn</Op3>
+    <Op4>Urenas</Op4>
+    <Ans>Jupiter</Ans>
+    <Des></Des>
+  </Question>
+</Quiz>
